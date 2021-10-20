@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm NiC 👋
 
-<!--
-**nc-77/nc-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/nc-77?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nc-77&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true" width="50%" />
+</a>
 
-Here are some ideas to get you started:
+- 🏫 A student at Hangzhou Dianzi University.
+- 🌱 I’m currently learning Golang
+- 🏠 Blog at [nc-77.top](http://blog.nc-77.top)
+- 📫 How to reach me: [send an email](mailto:291993554@qq.com)
+- 😄 Pronouns: n_c , nc-77
+- ⚡ Fun fact: study for a bit , rest for a while
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
